@@ -8,7 +8,7 @@
 
 <h2>🌐 Live Demo</h2>
 <p>
-  👉 <a href="https://your-live-demo-link.com](https://cake-shop-react-web-front-end.vercel.app/" target="_blank">Click here to view the live website</a><br/>
+  👉 <a href="https://cake-shop-react-web-front-end.vercel.app/" target="_blank">Click here to view the live website</a><br/>
   📬 Form messages are sent to your email upon submission.
 </p>
 
