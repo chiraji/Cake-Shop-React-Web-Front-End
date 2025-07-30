@@ -45,32 +45,29 @@ src/
 <img width="1894" height="869" alt="image" src="https://github.com/user-attachments/assets/306dadf8-170d-48ed-9c00-197d18532f28" />
 <img width="1898" height="870" alt="image" src="https://github.com/user-attachments/assets/00918c37-7f62-4a8a-b569-4299ce318fc3" />
 <img width="1895" height="866" alt="image" src="https://github.com/user-attachments/assets/f2f34237-305c-4fe8-802a-b88c607dca07" />
-<img width="1897" height="867" alt="image" src="https://github.com/user-attachments/assets/2f45cc4f-c779-4999-8cd6-90036cfafa28" />
-<img width="1842" height="766" alt="image" src="https://github.com/user-attachments/assets/83b3d734-9fb6-4343-8270-f871f6ecc751" />
-<img width="1499" height="752" alt="image" src="https://github.com/user-attachments/assets/38c24ed5-5866-4900-bfb1-1fed54b82984" />
-
-
-
-
 
 
 
 </p>
 
 <h2>📦 Installation & Usage</h2>
-<pre>
-# Clone the repository
-git clone https://github.com/your-username/cake-shop-react.git
+<p>
+Clone the repository
+  
+    git clone https://github.com/your-username/cake-shop-react.git
 
-# Navigate to the project directory
-cd cake-shop-react
+Navigate to the project directory
 
-# Install dependencies
-npm install
+    cd cake-shop-react
 
-# Run the development server
-npm start
-</pre>
+Install dependencies
+
+    npm install
+
+Run the development server
+    
+    npm start
+</p>
 
 <h2>📤 Contact Form Email Integration</h2>
 <p>
@@ -79,10 +76,7 @@ npm start
 
 <h2>📬 Contact</h2>
 <p>
-  For support or questions, contact me at: <a href="mailto:your-email@example.com">your-email@example.com</a>
+  For support or questions, contact me at: <a href="mailto:hchiraji@gmail.com">hchiraji@gmail.com</a>
 </p>
 
-<h2>📄 License</h2>
-<p>
-  This project is licensed under the MIT License.
-</p>
+
